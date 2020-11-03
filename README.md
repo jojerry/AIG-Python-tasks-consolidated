@@ -3,7 +3,7 @@
 # Python Training October 2020
 
 | Name / Day | Day1 | Day 2 | Day3 | Day4 | Day5 | Day6 |
-| --- | --- | --- |
+| --- | --- | --- || --- | --- | --- || --- | --- | 
 | Jothi | [Submitted](https://github.com/jojerry/AIG-Python-tasks/tree/main/Day1) | [Submitted](https://github.com/jojerry/AIG-Python-tasks/tree/main/Day2) | [Submitted](https://github.com/jojerry/AIG-Python-tasks/tree/main/Day3) | [Submitted](https://github.com/jojerry/AIG-Python-tasks/tree/main/Day4) | [Submitted](https://github.com/jojerry/AIG-Python-tasks/tree/main/Day5)
 | Yeshwanth | [Submitted](https://github.com/Yeshwanth299/python/tree/main/Day_1) | |
 | Booja |[Submitted](https://github.com/Booja97/python) | |
